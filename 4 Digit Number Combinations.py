@@ -5,3 +5,4 @@ def FourDigitCombinations():
         code=str(code).zfill(4)
         print code,
         numbers.append(code)
+        s
